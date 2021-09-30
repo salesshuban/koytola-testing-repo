@@ -1,0 +1,79 @@
+ID,product,offer,name,seller,user,quantity,message,country,is closed,created at,updated at
+120,apple,,abc,okdemo,abc@gmail.com,2,vc,AS,False,06/09/2021,06/09/2021
+119,apple,,abc,okdemo,abc@gmail.com,2,vc,AS,False,06/09/2021,06/09/2021
+118,vsfv,,asdfwer,shreya12,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+117,Anise Seed ,,asdfwer,,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+116,Anise Seed ,,asdfwer,,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+115,Anise Seed ,,asdfwer,,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+114,Anise Seed ,,asdfwer,,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+113,Anise Seed ,,asdfwer,,6danger@nevadaibm.com,400,gsgrsgtrgre,IN,False,06/09/2021,06/09/2021
+112,apple,,Dinesh,,,200,test,CA,False,06/09/2021,06/09/2021
+111,mango,,abc,,,1,fdhg,AG,False,06/09/2021,06/09/2021
+110,apple,,Leena,,,10,New ,AU,False,06/09/2021,06/09/2021
+109,apple,,Leena,,,10,hello,AU,False,06/09/2021,06/09/2021
+108,apple,,fgh,,,1,sadsa,AG,False,06/09/2021,06/09/2021
+107,mango,,fgh,,,1,thyfg,AR,False,06/09/2021,06/09/2021
+106,apple,,fgh,,,1,"m,",AG,False,06/09/2021,06/09/2021
+105,csdvd,,sad,,,1,sadad,AI,False,03/09/2021,03/09/2021
+104,vsfv,,gh,,,6,5465,AL,False,03/09/2021,03/09/2021
+103,apple,,fc,,,1,bhyh,AL,False,03/09/2021,03/09/2021
+102,mango,,okdemo@mailinator.com,,,2,adsa,AR,False,03/09/2021,03/09/2021
+101,apple,,okdemo@mailinator.com,,,3,sadsad,AQ,False,03/09/2021,03/09/2021
+100,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+99,mango,,avc,,,1,fdvfg,DZ,False,03/09/2021,03/09/2021
+98,apple,,avc,,,1,d vcvc,DZ,False,03/09/2021,03/09/2021
+97,apple,,avc,,,1,gfdfb,AL,False,03/09/2021,03/09/2021
+96,apple,,fghfg,,,1,fdbgf,AQ,False,03/09/2021,03/09/2021
+95,apple,,fghfg,,,1,fdbgf,AQ,False,03/09/2021,03/09/2021
+94,apple,,fghfg,,,1,fdbgf,AQ,False,03/09/2021,03/09/2021
+93,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+92,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+91,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+90,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+89,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+88,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+87,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+86,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+85,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+84,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+83,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+82,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+81,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+80,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+79,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+78,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+77,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+76,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+75,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+74,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+73,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+72,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+71,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+70,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+69,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+68,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+67,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+66,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+65,apple,,as,,,2,asdsad,AR,False,03/09/2021,03/09/2021
+64,apple,,k,,,2,xcdc,AD,False,02/09/2021,02/09/2021
+63,mango,,k,,,2,fgvhg,AX,False,02/09/2021,02/09/2021
+62,apple,,ok@demo.com,,,1,hygkj,AS,False,02/09/2021,02/09/2021
+61,apple,,ok@demo.com,,,1,gfgf,AG,False,02/09/2021,02/09/2021
+60,apple,,ok,,,1,xfdf,AO,False,02/09/2021,02/09/2021
+59,apple,,ok,,,4,cvc,AR,False,02/09/2021,02/09/2021
+58,apple,,aws,,,2,cv ,AL,False,01/09/2021,01/09/2021
+57,apple,,aws,,,2,d d,AD,False,01/09/2021,01/09/2021
+56,apple,,aqs,,,2,c ddf,AS,False,01/09/2021,01/09/2021
+55,apple,,aws,,,2,c x vd,AS,False,01/09/2021,01/09/2021
+54,apple,,aws,,,2,c dsf,DZ,False,01/09/2021,01/09/2021
+53,mango,,,,,12,dbgfbf,AS,False,01/09/2021,01/09/2021
+52,apple,,aswa,,,2,sdcddfs,AD,False,01/09/2021,01/09/2021
+51,vsfv,,,,,2,df fvc,AO,False,01/09/2021,01/09/2021
+50,csdvd,,aws,,,1,fdvf,AS,False,01/09/2021,01/09/2021
+49,csdvd,,shha,,,1,ygjgcv,DZ,False,31/08/2021,31/08/2021
+48,csdvd,,ded,,,4,gfgf,AX,False,31/08/2021,31/08/2021
+47,csdvd,,sdf,,,2,dfvsf,AX,False,31/08/2021,31/08/2021
+46,csdvd,,saet,,,2,jbgvtyuh,DZ,False,31/08/2021,31/08/2021
+28,Anise Seed ,,,,,32,dgg,AG,False,02/08/2021,02/08/2021
+27,Anise Seed ,,,,,12,2dfs,AQ,False,02/08/2021,02/08/2021
+26,Anise Seed ,,,,,1,ghfuhb,AQ,False,02/08/2021,02/08/2021
